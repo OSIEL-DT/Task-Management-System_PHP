@@ -1,0 +1,7 @@
+Here is a breakdown of the project:
+
+    index.php: Lists tasks and allows adding or deleting tasks.
+    db.php: Handles database connection.
+    functions.php: Helper functions to manage tasks.
+    add_task.php: Form to add tasks.
+    update_task.php: Page to update tasks.
